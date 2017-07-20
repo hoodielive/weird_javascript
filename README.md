@@ -4,7 +4,7 @@ Javascript proper
 Let's explore the weird parts of javascript
 
 "git log --reverse HEAD" 
-"git rev-list --reverse HEAD | while read rev; do git ls-tree $rev; done
+"git rev-list --reverse HEAD | while read rev; do git ls-tree $rev; done"
 
 - Execution Contexts 
 - Frameworks 
