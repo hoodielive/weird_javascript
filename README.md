@@ -1,5 +1,4 @@
 # WeirdJavascript
-Javascript proper 
 
 Let's explore the weird parts of javascript
 
