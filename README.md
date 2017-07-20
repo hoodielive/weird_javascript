@@ -1,0 +1,2 @@
+# weird_javascript
+Javascript
