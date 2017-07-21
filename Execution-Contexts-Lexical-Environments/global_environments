@@ -1,0 +1,21 @@
+# Code is ran in an execution context 
+# Execution context (GLOBAL)
+# Creates a Global Object and a special variable called (this) 
+# javascript engine creates this for you. 
+
+<html> 
+	<head>
+	
+
+	</head> 
+
+	<body>
+	
+	
+	<script src="app.js">
+
+	
+	</script> 
+	</body>
+</html> 
+
