@@ -1,0 +1,30 @@
+// ECMA 6
+
+- Arrow functions, enhanced collections, generators
+- ES6 code feels very clean, intuitive and well designed
+- Babel and Webpack help create an ES6 development environment
+
+Why do we need Babel Transpiler?
+
+What is a transpiler?
+- reads code written in one language and produces the equivalent code in another
+ex. typescript, coffee-script
+
+- Browsers only currently have widespread support of older JS.
+- Transpilers convert advanced TypeScript and CoffeeScript code back into original JS.
+
+Babel (for es6)
+Transpiles es6 back into supported pre-es6 JS.
+
+babeljs.io
+
+Webpack
+* a bundler for javascript
+* bundles modules into one .js file
+* comes with a dev-server
+
+Installation WebPack
+'mkdir es6'
+'npm init -y'
+'npm install --save-dev webpack'
+'atom .'
