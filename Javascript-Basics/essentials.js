@@ -14,3 +14,6 @@ var firstGreeting = 'hello';
 
 var $_a = 'will work';
 console.log($_a);
+
+var $_b = 'will work'; 
+console.log($_b); 
